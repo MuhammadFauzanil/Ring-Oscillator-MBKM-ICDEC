@@ -1,0 +1,17 @@
+Flattening unmatched subcell inverter1 in circuit ringosc3 (1)(3 instances)
+
+Cell ringosc3 (0) disconnected node: vdd
+Cell ringosc3 (0) disconnected node: out
+Cell ringosc3 (0) disconnected node: gnd
+
+Subcircuit pins:
+Circuit 1: ringosc3                        |Circuit 2: ringosc3                        
+-------------------------------------------|-------------------------------------------
+vdd                                        |vdd                                        
+out                                        |out                                        
+gnd                                        |gnd                                        
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes ringosc3 and ringosc3 are equivalent.
+
+Final result: Verify:  cell /home/fauzann/latiahan1/ringosc3.sch.spc has no elements and/or nodes.  Not checked.
