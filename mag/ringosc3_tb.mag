@@ -1,0 +1,10 @@
+magic
+tech sky130A
+timestamp 1729047083
+<< checkpaint >>
+rect -630 -630 730 1130
+use ringosc3  x1
+timestamp 1729047083
+transform 1 0 0 0 1 400
+box 0 -400 100 100
+<< end >>
